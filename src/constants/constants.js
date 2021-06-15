@@ -4,8 +4,8 @@ export const projects = [
     description: "This is by far my most advance project till the date. In this web app I created a Voice assisted News App with the help of Alan AI studio. Users can search news by keywords like sports, technologies and much more.",
     image: '/images/AISS.jpg',
     tags: ["React", "Material UI", "Alan AI API"],
-    source: 'https://github.com/vaibhavvarunkar/React-voice-assistant-news-app',
-    visit: 'https://gracious-bhabha-8eb005.netlify.app/',
+    source: 'https://gracious-bhabha-8eb005.netlify.app/',
+    visit: 'https://github.com/vaibhavvarunkar/React-voice-assistant-news-app',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description: "In this project I implemented authentication system using JWT tokens. I have also applied authentication to the some other API's of the website. The user passwords are also hashed for advance security.",
     image: '/images/jwtss.jpg',
     tags: ["Html", "Css", "Node", "MongoDB", "Express"],
-    source: 'https://github.com/vaibhavvarunkar/jwt-auth',
-    visit: 'https://jwt-app-vaibhav.herokuapp.com/',
+    source: 'https://jwt-app-vaibhav.herokuapp.com/',
+    visit: 'https://github.com/vaibhavvarunkar/jwt-auth',
     id: 1,
   },
   {
@@ -22,8 +22,9 @@ export const projects = [
     description: "In this project I created a web page where user can buy an ebook using cards. I have also implemented payment gateway using stripe API.",
     image: '/images/ebookss.jpg',
     tags: ["Html", "Css", "Node", "Express", "Stripe API"],
-    source: 'https://github.com/vaibhavvarunkar/NodeStripeEbookProject',
-    visit: 'https://ebook-node-stripe-app.herokuapp.com/',
+    source: 'https://ebook-node-stripe-app.herokuapp.com/',
+    visit: 'https://github.com/vaibhavvarunkar/NodeStripeEbookProject',
+
     id: 2,
   },
   {
@@ -40,8 +41,8 @@ export const projects = [
     description: "In this website I used Html and css flexbox to implement a fully responsive website design for a restaurant. ",
     image: '/images/restss.jpg',
     tags: ["Html", "Css", "Flexbox"],
-    source: 'https://github.com/vaibhavvarunkar/restaurantWebsiteFlexbox',
-    visit: 'https://restaurantwebsitebyvaibhav.netlify.app/',
+    source: 'https://restaurantwebsitebyvaibhav.netlify.app/',
+    visit: 'https://github.com/vaibhavvarunkar/restaurantWebsiteFlexbox',
     id: 4,
   },
 ];
