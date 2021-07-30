@@ -48,7 +48,7 @@ const Timeline = () => {
       <SectionDivider />
       <SectionTitle main>About Me</SectionTitle>
       <SectionText>
-        A third year engineering undergrad at Savitribai Phule Pune University. I'm majoring in Information Technology and I'm
+        A final year engineering undergrad at Savitribai Phule Pune University. I'm majoring in Information Technology and I'm
         interested in web developement and seeking exciting opportunities related to the same.
         Having an experience as an intern at an early stage start-up I have repeatedly been exposed to new technologies and
         challenges. This has made me able to quickly adapt to changes and gain a broader perspective. I'm always curious about
