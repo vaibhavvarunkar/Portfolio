@@ -122,7 +122,7 @@ const Timeline = () => {
           );
         })}
       </CarouselButtons>
-      <Button><a href="/resume/vaibhavVarunkarCV.pdf" target="_blank" download>Download CV</a></Button>
+      <Button><a href="/resume/Vaibhav_Ganesh_Varunkar_NMIET.pdf" target="_blank" download>Download CV</a></Button>
       <SectionDivider />
 
     </Section>
