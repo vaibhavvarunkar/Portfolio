@@ -8,7 +8,7 @@ const exp = [
         id: "1",
         title: "Full stack web developer intern (MERN)",
         company: "Creatosaurus",
-        date: "March 2021 - Present",
+        date: "March 2021 - September 2021",
         desc: ["Improved overall UX of clients Website.", "Assisted Senior Developers in maanaging day to day work and built some features for companies own product.", "Built frontend for clients website using React.js"],
     }
 ]
