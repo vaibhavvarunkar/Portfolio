@@ -7,9 +7,16 @@ const exp = [
     {
         id: "1",
         title: "Full stack web developer intern (MERN)",
-        company: "Creatosaurus",
+        company: "Creatosaurus - stories matter!",
         date: "March 2021 - September 2021",
-        desc: ["Improved overall UX of clients Website.", "Assisted Senior Developers in maanaging day to day work and built some features for companies own product.", "Built frontend for clients website using React.js"],
+        desc: ["Improved overall UX of clients Website.", "Assisted Senior Developers in managing day to day work and built some features for companies own product.", "Built frontend for clients website using React.js"],
+    },
+    {
+        id: "2",
+        title: "Full stack web developer intern (MERN)",
+        company: "Webknot Technologies Pvt Ltd",
+        date: "November 2021 - Present",
+        desc: ["Worked in a team to improve overall look and functionality of clients projects.", "Worked on multiple projects with latest technologies like ReactJS, NodeJs/express, Redux."],
     }
 ]
 const Experience = () => {
