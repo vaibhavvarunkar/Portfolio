@@ -12,7 +12,7 @@ const Hero = (props) => (
           Welcome To <br></br>
           My Personal Portfolio
         </SectionTitle>
-        <SectionText>Hello, I am Vaibhav Varunkar. A Final Year IT Engineering Student, Interested in Web Developement Specially in MERN Stack. Checkout My Work Below And Feel Free To Get In Touch If You Want To Work With Me.</SectionText>
+        <SectionText>Hello world! I'm Vaibhav Varunkar, a frontend focused full-stack developer on a mission to transform pixels into immersive digital experiences. With a passion for crafting visually stunning and user-centric interfaces, I thrive on the dynamic interplay of design and code. Let's build something extraordinary together!</SectionText>
         <Button onClick={() => window.location = "mailto:vaibhavvarunkar2001@gmail.com"}>Get In Touch</Button>
       </LeftSection>
     </Section>

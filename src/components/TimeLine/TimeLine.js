@@ -48,14 +48,7 @@ const Timeline = () => {
       <SectionDivider />
       <SectionTitle main>About Me</SectionTitle>
       <SectionText>
-        A final year engineering undergrad at Savitribai Phule Pune University. I'm majoring in Information Technology and I'm
-        interested in web developement and seeking exciting opportunities related to the same.
-        Having an experience as an intern at an early stage start-up I have repeatedly been exposed to new technologies and
-        challenges. This has made me able to quickly adapt to changes and gain a broader perspective. I'm always curious about
-        things and enjoy learning. I like to solve problems and fix errors. I am detail oriented person and I keep my goals and
-        tasks organized to maintain productivity.
-        I believe that the skills I have attained in dynamic environment and competitive university life define me and I'm
-        looking forward to implementing and polishing in any opportunity that I receive.
+      As an experienced Frontend Developer, my expertise lies in the mastery of JavaScript, TypeScript, React.js, and Next.js, where I've honed the art of crafting dynamic and responsive user interfaces. With a proven track record in collaborative problem-solving, I pride myself on delivering code that is not only clean and scalable but also aligns seamlessly with the project's objectives. Proficient in the intricacies of responsive design, unit testing, and debugging, I bring a proactive communication style to dynamic development teams, fostering an environment of efficiency and innovation. Constantly staying abreast of industry trends, I seamlessly integrate technical expertise with adaptability, ensuring a forward-looking approach to web development excellence.
 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
@@ -122,8 +115,8 @@ const Timeline = () => {
           );
         })}
       </CarouselButtons>
-      <Button><a href="/resume/Vaibhav_Varunkar_NMIET_71916604H.pdf" target="_blank" download>Download CV</a></Button>
-      <SectionDivider />
+      <Button><a href="/resume/Vaibhav_Varunkar_Frontend_Developer_Resume.pdf" target="_blank" download>Download CV</a></Button>
+      {/* <SectionDivider /> */}
 
     </Section>
   );

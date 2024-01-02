@@ -29,7 +29,7 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/vaibhav-varunkar-146b851b0/">
             <AiFillLinkedin size="3rem"></AiFillLinkedin>
           </SocialIcons>
-          <SocialIcons href="https://instagram.com/vaibhav_varunkar_?utm_medium=copy_link">
+          <SocialIcons href="https://www.instagram.com/vaibhaavvv_fit/?utm_medium=copy_link">
             <AiFillInstagram size="3rem"></AiFillInstagram>
           </SocialIcons>
         </SocialIconsContainer>

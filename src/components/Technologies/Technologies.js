@@ -20,10 +20,9 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experinece with <br />
-            HTML, CSS, JS, Bootstrap <br />
-            & React.js and also version control <br></br>
-            using Git & Github.
+            Experience with <br />
+            HTML, CSS, JavaScript, <br />
+            TypeScript, ReactJs and NextJs
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,20 +31,19 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experinece with <br />
-            Node, Express and Databases <br></br>
-            Like Mysql & MongoDB and also <br></br>
-            deployment using Heroku.
+            Experience with <br />
+            NodeJs, ExpressJs, NestJs and <br></br>
+            Databases Like Mysql & MongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
-          <ListTitle>Competitive Coding</ListTitle>
+          <ListTitle>Developement Tools</ListTitle>
           <ListParagraph>
-            Experinece with <br />
-            Python & OOP and have 5 stars at Hackerrank in python.
+            Experience with <br />
+            Jira, Git, Github and Bitbucket
           </ListParagraph>
         </ListContainer>
       </ListItem>
