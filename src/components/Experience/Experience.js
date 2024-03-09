@@ -7,9 +7,9 @@ const exp = [
     
         {
             id: "1",
-            title: "Software Developer (Full-Time) ",
+            title: "Software Developer (Full-Time + Internship) ",
             company: "Webknot Technologies Pvt Ltd",
-            date: "June 2022 - Present",
+            date: "June 2021 - Present",
             desc: "I played a pivotal role in spearheading the development and maintenance of dynamic web applications, where my focus on translating design concepts into responsive and highly functional interfaces using React.js and Next.js significantly elevated the user experience. Collaborating closely with top-notch UX/UI designers, I not only implemented but also optimized features to ensure a seamless and visually stunning interface. My active engagement in rigorous code reviews, debugging, and performance optimization efforts contributed substantially to the overall quality and efficiency of the products. Notably, I showcased leadership skills by guiding and leading a team of three interns through successful project executions, demonstrating my commitment to fostering a collaborative and high-impact development environment.",
         },
         {
@@ -23,7 +23,7 @@ const exp = [
         id: "3",
         title: "MERN Stack Developer (Internship)",
         company: "Creatosaurus Pvt Ltd",
-        date: "March 2021 - September 2021",
+        date: "March 2021 - June 2021",
         desc: "As a MERN Stack Developer Intern at Creatosaurus, I played a pivotal role in the end-to-end development of dynamic web applications. My responsibilities included designing and implementing MongoDB databases for efficient data management, developing RESTful APIs using Express.js, and crafting responsive user interfaces with React.js. I contributed to the implementation of robust server-side logic using Node.js, collaborated closely with cross-functional teams to troubleshoot issues, and actively participated in Agile development methodologies. Additionally, I ensured codebase integrity through version control using Git and played a key role in the deployment process to staging and production environments. My commitment to continuous learning allowed me to stay current with industry trends and integrate emerging technologies into project workflows, enhancing overall project efficiency and success.",
         }
     
