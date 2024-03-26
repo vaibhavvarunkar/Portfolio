@@ -7,14 +7,14 @@ const exp = [
     
         {
             id: "1",
-            title: "Software Developer (Full-Time + Internship) ",
+            title: "SDE-1 (Full-Time) ",
             company: "Webknot Technologies Pvt Ltd",
             date: "June 2021 - Present",
             desc: "I played a pivotal role in spearheading the development and maintenance of dynamic web applications, where my focus on translating design concepts into responsive and highly functional interfaces using React.js and Next.js significantly elevated the user experience. Collaborating closely with top-notch UX/UI designers, I not only implemented but also optimized features to ensure a seamless and visually stunning interface. My active engagement in rigorous code reviews, debugging, and performance optimization efforts contributed substantially to the overall quality and efficiency of the products. Notably, I showcased leadership skills by guiding and leading a team of three interns through successful project executions, demonstrating my commitment to fostering a collaborative and high-impact development environment.",
         },
         {
             id: "2",
-            title: "Product Engineer (Contract) ",
+            title: "Product Engineer (Staff Augmentation) ",
             company: "Aditya Birla Group Pvt Ltd",
             date: "June 2022 - June 2023",
             desc: "As an onsite Product Engineer at ABG, I played a pivotal role in orchestrating the development of cutting-edge analytical applications and crafting bespoke dashboards for key businesses within the Aditya Birla Group, including Ultratech, Hindalco, and Fashion. In seamless collaboration with senior developers and managers, I meticulously tailored these solutions to precisely align with stakeholder requirements, demonstrating a strategic approach that not only optimized decision-making processes but also yielded significant cost savings. Through this concerted effort, Me and my team contributed to an impressive $60 Millions yearly in overall savings across diverse businesses within the Aditya Birla Group, showcasing the impactful convergence of technological innovation and business acumen.",

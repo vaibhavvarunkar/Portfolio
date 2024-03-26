@@ -50,6 +50,6 @@ export const TimeLineData = [
   { year: 2018, text: 'Started my journey as an IT engineering student in Pune', },
   { year: 2019, text: "Started learning about developement processes and fundamentals. Started learning web developement from basics", },
   { year: 2020, text: 'Created my first ever project with HTML, CSS and JS. Then went on to building projects and learnt MERN stack also built couple of full-stack projects', },
-  { year: 2021, text: 'Got an internship at Creatosaurus as a MERN stack developer also got a full-time job at webknot technologies in October', },
+  { year: 2021, text: 'Got an internship at Creatosaurus as a MERN stack developer also got a full-time job at webknot technologies as SDE-1 in June', },
   { year: 2022, text: 'Completed my graduation with 8.85 CGPA and continued this beautiful journey', },
 ];
