@@ -1,5 +1,25 @@
 export const projects = [
   {
+    title: "Risk Operation Center (ROC)",
+    description:
+      "A Risk Operations Center (ROC) enables cross-functional collaboration across security, finance and compliance operations with unified risk management for coordinated response to risks in real time. I played a key role in developing ROC by creating new custome components, working on onboarding flow for ROC and also optimising the application using different techniques. I also worked post development phase of the ROC where I fixed critical security bugs and other UX fixes.",
+    image: "/images/birla.png",
+    tags: ["ReactJS", "RX", "Redux-Toolkit", "High charts"],
+    source: "https://github.com/vaibhavvarunkar/EnterpriseWebDesign",
+    visit: "https://tech-enterprise-website.netlify.app/",
+    id: 6,
+  },
+  {
+    title: "Enterprise TruRisk Management (ETM)",
+    description:
+      "The Enterprise TruRisk™️ Platform aka ETM provides you with a unified view of your entire cyber risk posture so you can efficiently aggregate and measure all Qualys & non-Qualys risk factors in a unified view, communicate cyber risk with context to your business, and go beyond patching to eliminate the risk that threatens the business in any area of your attack surface. ETM is an internal and important part of Risk Operations Center (ROC) which enables cross-functional collaboration across security, finance and compliance operations with unified risk management for coordinated response to risks in real time. I played a key role in developing ETM by creating new custome components, working on dashboards, integrating APIs and handling the prioritisation flow and also optimising the application using different techniques. I also worked post development phase of the ETM where I fixed critical security bugs and other UX fixes.",
+    image: "/images/birla.png",
+    tags: ["ReactJS", "RX", "Redux-Toolkit", "High charts"],
+    source: "https://github.com/vaibhavvarunkar/EnterpriseWebDesign",
+    visit: "https://tech-enterprise-website.netlify.app/",
+    id: 7,
+  },
+  {
     title: "Birla Carbon CV",
     description:
       "This project entails the development of a live streaming application tailored for the carbon business segment of ABG. This innovative app empowers users within carbon plants to actively observe and analyze various facets of their operations, including product quality, the condition of carbon containers or plants, and real-time monitoring of environmental factors such as temperature, moisture, and other pertinent details. This real-time insight equips users to proactively implement measures to preserve the quality of carbon during the production process.The implementation of websockets technology has been instrumental in achieving seamless and efficient live streaming capabilities, optimizing bandwidth usage particularly for multiple IP camera streams. Additionally, the project features the creation of dynamic analytical dashboards that provide users with comprehensive and relevant information for informed decision-making. This integrated solution enhances operational visibility and facilitates timely interventions, contributing to the overall efficiency and quality control of the carbon production process.",
